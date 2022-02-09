@@ -1,0 +1,22 @@
+{
+   "tasks": [
+      {
+         "id": 1,
+         "text": "Walk the dog",
+         "day": "February 5th 4:30 pm",
+         "reminder": false
+      },
+      {
+         "id": 2,
+         "text": "Learn things",
+         "day": "February 6th All Day",
+         "reminder": false
+      },
+      {
+         "id": 3,
+         "text": "Workout",
+         "day": "February 6th 8:30 pm",
+         "reminder": true
+      }
+   ]
+}
